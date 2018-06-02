@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>/Users/asherabrams/Projects/AndroidAppTest/AndroidAppTest/obj/Release/lp/1/jl/classes.jar</Jar>
+    <Jar>/Users/asherabrams/Projects/AndroidAppTest/AndroidAppTest/obj/Release/lp/2/jl/support-annotations.jar</Jar>
+    <Jar>/Users/asherabrams/Projects/AndroidAppTest/AndroidAppTest/obj/Release/lp/3/jl/classes.jar</Jar>
+    <Jar>/Users/asherabrams/Projects/AndroidAppTest/AndroidAppTest/obj/Release/lp/4/jl/classes.jar</Jar>
+    <Jar>/Users/asherabrams/Projects/AndroidAppTest/AndroidAppTest/obj/Release/lp/5/jl/classes.jar</Jar>
+    <Jar>/Users/asherabrams/Projects/AndroidAppTest/AndroidAppTest/obj/Release/lp/6/jl/classes.jar</Jar>
+    <Jar>/Users/asherabrams/Projects/AndroidAppTest/AndroidAppTest/obj/Release/lp/7/jl/classes.jar</Jar>
+    <Jar>/Users/asherabrams/Projects/AndroidAppTest/AndroidAppTest/obj/Release/lp/8/jl/classes.jar</Jar>
+    <Jar>/Users/asherabrams/Projects/AndroidAppTest/AndroidAppTest/obj/Release/lp/9/jl/classes.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/asherabrams/Projects/AndroidAppTest/AndroidAppTest/obj/Release/lp/8/jl/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories />
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/asherabrams/Projects/AndroidAppTest/AndroidAppTest/obj/Release/lp/8.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

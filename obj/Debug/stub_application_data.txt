@@ -1,0 +1,2 @@
+android.app.Application
+com.rosebridge.app01.AndroidAppTest
